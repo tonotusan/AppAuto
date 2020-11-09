@@ -23,6 +23,7 @@
             </Button.RenderTransform>
         </Button>
         <Button Content="Button" HorizontalAlignment="Left" Margin="109,122,0,0" VerticalAlignment="Top" Height="37" Width="75" Click="Button_Click_1"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="109,202,0,0" VerticalAlignment="Top" Height="37" Width="75"/>
 
     </Grid>
 </Window>
