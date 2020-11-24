@@ -49,9 +49,6 @@
             <ComboBoxItem Content="300"/>
             <ComboBoxItem Content="1500"/>
         </ComboBox>
-        <Border BorderThickness="1" BorderBrush="Black" Grid.Column="2">
-            <Button x:Name="btnEnd" Content="End" Margin="52,158,669,286" RenderTransformOrigin="0.719,3.677" Click="btnEnd_Click"/>
-        </Border>
         <Button x:Name="Button_Loop_2" Content="Loop2" HorizontalAlignment="Left" Margin="11,160,0,0" VerticalAlignment="Top" Height="37" Width="75" Grid.ColumnSpan="2" Grid.Column="1" Click="Button_Loop_2_Click"/>
 
     </Grid>
